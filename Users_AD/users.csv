@@ -1,0 +1,5 @@
+First Name,Last Name,Job Title,Office Phone,Email Addess,Description,Organizational Unit
+Nate,Terry,Nate Terry,403-658-9654,nate@agency.com,C1511 Analyst,"OU=Office,OU=itFlee,DC=WidgetLLC,DC=Internal"
+Stephen,Kerst,Stephen Kerst,403-695-8511,stephen@agency.com,C1511 Analyst,"OU=Office,OU=itFlee,DC=WidgetLLC,DC=Internal"
+Luis,Garcia,Luis Garcia,403-693-3254,luis@agency.com,Tech Lead,"OU=Administrators,OU=itFlee,DC=WidgetLLC,DC=Internal"
+Jessica,Dillinger,Jessica Dillinger,403-589-6932,jessica@agency.com,Chief,"OU=Administrators,OU=itFlee,DC=WidgetLLC,DC=Internal"
